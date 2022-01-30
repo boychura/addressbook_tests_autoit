@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
 
-namespace addressbook_tests_autoit.Tests
+namespace addressbook_tests_autoit
 {
     [TestFixture]
     public class GroupRemovalTests : TestBase
